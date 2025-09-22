@@ -1,0 +1,15 @@
+Netmiko
+
+https://pyneng.readthedocs.io/en/latest/book/18_ssh_telnet/netmiko.html
+https://developer.cisco.com
+https://blogs.cisco.com/developer/network-automation-cisco-dna-center-sdk-2
+https://developer.cisco.com/docs/dna-center/#!cisco-dna-center-platform-overview/intent-api-northbound
+
+Intent API (Northbound)
+
+Events and Notifications (Eastbound)
+
+Integration API (Westbound)
+
+
+https://devnetsandbox.cisco.com
